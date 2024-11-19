@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: CERMICS events
-baseurl: "https://cermics.github.io" # the subpath of your site, e.g. /blog
-url: "/events/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/events" # the subpath of your site, e.g. /blog
+url: "https://cermics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minima
