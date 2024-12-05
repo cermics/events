@@ -20,7 +20,6 @@ title: Workshop for early-career researchers in OR and ML
 - [Silvia Di Gregorio](https://www.lipn.univ-paris13.fr/~digregorio/)
 - [Vassilis Digalakis](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/digalakis-vassilis)
 - [Luca Ferrarini](https://www.researchgate.net/profile/Luca-Ferrarini-3)
-- [Julien Grand Clement](https://people.hec.edu/grand-clement/)
 - [Amaury Hayat](https://cermics.enpc.fr/~hayata/index_en.html)
 - [Vincent Leclere](https://leclere.github.io/)
 - [Cristina Molero](https://www.researchgate.net/profile/Cristina-Molero-Rio)
