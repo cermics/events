@@ -20,11 +20,10 @@ title: Workshop for early-career researchers in OR and ML
 - [Silvia Di Gregorio](https://www.lipn.univ-paris13.fr/~digregorio/)
 - [Luca Ferrarini](https://www.researchgate.net/profile/Luca-Ferrarini-3)
 - [Vincent Leclere](https://leclere.github.io/)
-- [Cristina Molero](https://www.researchgate.net/profile/Cristina-Molero-Rio)
 - [Axel Parmentier](https://axelparmentier.github.io/)
 - [Matteo Petris](https://scholar.google.com/citations?user=ucJFESQAAAAJ&hl=it)
 - [Thibault Prunet](https://prunett.github.io/)
-- [Marius Rolland](https://mariusroland.gitlab.io/)
+- [Marius Roland](https://mariusroland.gitlab.io/)
 - [Flore Sentenac](https://floresentenac.github.io/)
 - [Yue Su](https://ysu1028.github.io/)
 
@@ -37,16 +36,15 @@ Welcome lunch from 12:30 to 14:00
 | Time          | Speaker          | Title                                                                                              |
 | ------------- | ---------------- | -------------------------------------------------------------------------------------------------- |
 | 14:00 - 14:20 | Mathieu Besançon | Frank-Wolfe Methods and Applications in Operations Research                                        |
-| 14:20 - 14:40 | Marius Rolland   | Making Large-Scale Optimization Tractable: Adaptive Partitioning Methods and Matrix Decompositions |
+| 14:20 - 14:40 | Marius Roland    | Making Large-Scale Optimization Tractable: Adaptive Partitioning Methods and Matrix Decompositions |
 | 14:40 - 15:00 | Flore Sentenac   | Balancing optimism and pessimism in offline-to-online learning                                     |
 
 Discussion break from 15:00 to 16:00
 
-| Time          | Speaker            | Title |
-| ------------- | ------------------ | ----- |
-| 16:00 - 16:20 | François Clautiaux | *TBD* |
-| 16:20 - 16:40 | Yohann De Castro   | *TBD* |
-| 16:40 - 17:00 | Axel Parmentier    | *TBD* |
+| Time          | Speaker            | Title           |
+| ------------- | ------------------ | --------------- |
+| 16:00 - 16:20 | François Clautiaux | *Open problems* |
+| 16:20 - 16:40 | Axel Parmentier    | *Open problems* |
 
 Workshop dinner
 
@@ -60,11 +58,11 @@ Workshop dinner
 
 Discussion break from 10:30 to 11:30
 
-| Time          | Speaker         | Title                                                                     |
-| ------------- | --------------- | ------------------------------------------------------------------------- |
-| 11:30 - 11:50 | Thibault Prunet | *TBD*                                                                     |
-| 11:50 - 12:10 | Cristina Molero | *TBD*                                                                     |
-| 12:10 - 12:30 | Guillaume Dalle | Operations research in the age of differentiable and parallel programming |
+| Time          | Speaker                       | Title                                                                     |
+| ------------- | ----------------------------- | ------------------------------------------------------------------------- |
+| 11:30 - 11:50 | Thibault Prunet               | *TBD*                                                                     |
+| 11:50 - 12:10 | Pierre-Cyril Aubin-Frankowski | *TBD*                                                                     |
+| 12:10 - 12:30 | Guillaume Dalle               | Operations research in the age of differentiable and parallel programming |
 
 Lunch from 12:30 to 14:00
 
@@ -76,10 +74,10 @@ Lunch from 12:30 to 14:00
 
 Discussion break from 15:00 to 16:00
 
-| Time          | Speaker                       | Title |
-| ------------- | ----------------------------- | ----- |
-| 16:00 - 16:20 | Pierre-Cyril Aubin-Frankowski | *TBD* |
-| 16:20 - 16:40 | Vincent Leclère               | *TBD* |
+| Time          | Speaker          | Title           |
+| ------------- | ---------------- | --------------- |
+| 16:00 - 16:20 | Yohann De Castro | *Open problems* |
+| 16:20 - 16:40 | Vincent Leclère  | *Open problems* |
 
 ## Organizing team
 
