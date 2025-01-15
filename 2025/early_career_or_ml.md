@@ -66,11 +66,11 @@ Discussion break from 10:30 to 11:30
 
 Lunch from 12:30 to 14:00
 
-| Time          | Speaker       | Title                                                                            |
-| ------------- | ------------- | -------------------------------------------------------------------------------- |
-| 14:00 - 14:20 | Léo Baty      | *TBD*                                                                            |
-| 14:20 - 14:40 | Yue Su        | Data-driven pricing policies for substitute itineraries                          |
-| 14:40 - 15:00 | Louis Bouvier | Contextual combinatorial stochastic optimization and empirical risk minimization |
+| Time          | Speaker       | Title                                                                                   |
+| ------------- | ------------- | --------------------------------------------------------------------------------------- |
+| 14:00 - 14:20 | Léo Baty      | Combinatorial optimization and decision-focused learning for stochastic tail assignment |
+| 14:20 - 14:40 | Yue Su        | Data-driven pricing policies for substitute itineraries                                 |
+| 14:40 - 15:00 | Louis Bouvier | Contextual combinatorial stochastic optimization and empirical risk minimization        |
 
 Discussion break from 15:00 to 16:00
 
