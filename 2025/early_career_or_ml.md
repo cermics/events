@@ -41,10 +41,11 @@ Welcome lunch from 12:30 to 14:00
 
 Discussion break from 15:00 to 16:00
 
-| Time          | Speaker            | Title           |
-| ------------- | ------------------ | --------------- |
-| 16:00 - 16:20 | François Clautiaux | *Open problems* |
-| 16:20 - 16:40 | Axel Parmentier    | *Open problems* |
+| Time          | Speaker                       | Title           |
+| ------------- | ----------------------------- | --------------- |
+| 16:00 - 16:20 | François Clautiaux            | *Open problems* |
+| 16:20 - 16:40 | Axel Parmentier               | *Open problems* |
+| 16:40 - 17:00 | Pierre-Cyril Aubin-Frankowski | *Open problems* |
 
 Workshop dinner
 
@@ -58,11 +59,10 @@ Workshop dinner
 
 Discussion break from 10:30 to 11:30
 
-| Time          | Speaker                       | Title                                                                     |
-| ------------- | ----------------------------- | ------------------------------------------------------------------------- |
-| 11:30 - 11:50 | Thibault Prunet               | *TBD*                                                                     |
-| 11:50 - 12:10 | Pierre-Cyril Aubin-Frankowski | *TBD*                                                                     |
-| 12:10 - 12:30 | Guillaume Dalle               | Operations research in the age of differentiable and parallel programming |
+| Time          | Speaker         | Title                                                                     |
+| ------------- | --------------- | ------------------------------------------------------------------------- |
+| 11:30 - 11:50 | Thibault Prunet | *TBD*                                                                     |
+| 11:50 - 12:10 | Guillaume Dalle | Operations research in the age of differentiable and parallel programming |
 
 Lunch from 12:30 to 14:00
 
