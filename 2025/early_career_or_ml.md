@@ -44,7 +44,7 @@ Discussion break from 15:00 to 16:00
 | Time          | Speaker                       | Title           |
 | ------------- | ----------------------------- | --------------- |
 | 16:00 - 16:20 | François Clautiaux            | *Open problems* |
-| 16:20 - 16:40 | Axel Parmentier               | *Open problems* |
+| 16:20 - 16:40 | Yohann De Castro              | *Open problems* |
 | 16:40 - 17:00 | Pierre-Cyril Aubin-Frankowski | *Open problems* |
 
 Workshop dinner
@@ -74,10 +74,10 @@ Lunch from 12:30 to 14:00
 
 Discussion break from 15:00 to 16:00
 
-| Time          | Speaker          | Title           |
-| ------------- | ---------------- | --------------- |
-| 16:00 - 16:20 | Yohann De Castro | *Open problems* |
-| 16:20 - 16:40 | Vincent Leclère  | *Open problems* |
+| Time          | Speaker         | Title           |
+| ------------- | --------------- | --------------- |
+| 16:00 - 16:20 | Axel Parmentier | *Open problems* |
+| 16:20 - 16:40 | Vincent Leclère | *Open problems* |
 
 ## Organizing team
 
