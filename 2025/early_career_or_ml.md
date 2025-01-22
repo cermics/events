@@ -15,7 +15,7 @@ title: Workshop for early-career researchers in OR and ML
 - [Mathieu Besançon](https://matbesancon.xyz/)
 - [Louis Bouvier](https://louisbouvier.github.io/)
 - [François Clautiaux](https://www.math.u-bordeaux.fr/~fclautia/)
-- [Guillaume Dalle](https://homepages.laas.fr/ccomte/index.html)
+- [Guillaume Dalle](https://gdalle.github.io/)
 - [Yohann De Castro](https://ydecastro.github.io/)
 - [Silvia Di Gregorio](https://www.lipn.univ-paris13.fr/~digregorio/)
 - [Luca Ferrarini](https://www.researchgate.net/profile/Luca-Ferrarini-3)
