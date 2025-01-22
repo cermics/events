@@ -63,7 +63,7 @@ Discussion break from 10:30 to 11:30
 
 | Time          | Speaker         | Title                                                                     |
 | ------------- | --------------- | ------------------------------------------------------------------------- |
-| 11:30 - 11:50 | Thibault Prunet | *TBD*                                                                     |
+| 11:30 - 11:50 | Thibault Prunet | Surrogate move evaluation for a large class of order picking problems     |
 | 11:50 - 12:10 | Guillaume Dalle | Operations research in the age of differentiable and parallel programming |
 
 Lunch from 12:30 to 14:00
