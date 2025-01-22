@@ -13,16 +13,16 @@ title: Workshop for early-career researchers in OR and ML
 - [Pierre-Cyril Aubin-Frankowski](https://pcaubin.github.io/)
 - [Léo Baty](https://batyleo.github.io/)
 - [Mathieu Besançon](https://matbesancon.xyz/)
-- [Louis Bouvier](https://louisbouvier.github.io/)
+- [Louis Bouvier](https://louisbouvier.github.io/)[^1]
 - [François Clautiaux](https://www.math.u-bordeaux.fr/~fclautia/)
-- [Guillaume Dalle](https://gdalle.github.io/)
+- [Guillaume Dalle](https://gdalle.github.io/)[^1]
 - [Yohann De Castro](https://ydecastro.github.io/)
 - [Silvia Di Gregorio](https://www.lipn.univ-paris13.fr/~digregorio/)
 - [Luca Ferrarini](https://www.researchgate.net/profile/Luca-Ferrarini-3)
 - [Vincent Leclere](https://leclere.github.io/)
-- [Axel Parmentier](https://axelparmentier.github.io/)
+- [Axel Parmentier](https://axelparmentier.github.io/)[^1]
 - [Matteo Petris](https://scholar.google.com/citations?user=ucJFESQAAAAJ&hl=it)
-- [Thibault Prunet](https://prunett.github.io/)
+- [Thibault Prunet](https://prunett.github.io/)[^1]
 - [Marius Roland](https://mariusroland.gitlab.io/)
 - [Flore Sentenac](https://floresentenac.github.io/)
 - [Yue Su](https://ysu1028.github.io/)
@@ -43,7 +43,7 @@ Discussion break from 15:00 to 16:00
 
 | Time          | Speaker                       | Title           |
 | ------------- | ----------------------------- | --------------- |
-| 16:00 - 16:20 | François Clautiaux            | *Open problems* |
+| 16:00 - 16:20 | Amaury Hayat                  | *Open problems* |
 | 16:20 - 16:40 | Yohann De Castro              | *Open problems* |
 | 16:40 - 17:00 | Pierre-Cyril Aubin-Frankowski | *Open problems* |
 
@@ -74,14 +74,10 @@ Lunch from 12:30 to 14:00
 
 Discussion break from 15:00 to 16:00
 
-| Time          | Speaker         | Title           |
-| ------------- | --------------- | --------------- |
-| 16:00 - 16:20 | Axel Parmentier | *Open problems* |
-| 16:20 - 16:40 | Vincent Leclère | *Open problems* |
+| Time          | Speaker            | Title           |
+| ------------- | ------------------ | --------------- |
+| 16:00 - 16:20 | Axel Parmentier    | *Open problems* |
+| 16:20 - 16:40 | Vincent Leclère    | *Open problems* |
+| 16:40 - 17:00 | François Clautiaux | *Open problems* |
 
-## Organizing team
-
-- [Thibault Prunet](https://prunett.github.io/)
-- [Louis Bouvier](https://louisbouvier.github.io/)
-- [Guillaume Dalle](https://gdalle.github.io/)
-- [Axel Parmentier](https://axelparmentier.github.io/)
+[^1]: organizing team
