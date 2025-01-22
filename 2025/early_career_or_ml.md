@@ -81,3 +81,5 @@ Discussion break from 15:00 to 16:00
 | 16:00 - 16:20 | Axel Parmentier    | *Open problems* |
 | 16:20 - 16:40 | Vincent Leclère    | *Open problems* |
 | 16:40 - 17:00 | François Clautiaux | *Open problems* |
+
+---
