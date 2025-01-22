@@ -27,6 +27,8 @@ title: Workshop for early-career researchers in OR and ML
 - [Flore Sentenac](https://floresentenac.github.io/)
 - [Yue Su](https://ysu1028.github.io/)
 
+[^1]: organizing team
+
 ## Tentative schedule
 
 ### Day 1 (Wednesday)
@@ -79,5 +81,3 @@ Discussion break from 15:00 to 16:00
 | 16:00 - 16:20 | Axel Parmentier    | *Open problems* |
 | 16:20 - 16:40 | Vincent Leclère    | *Open problems* |
 | 16:40 - 17:00 | François Clautiaux | *Open problems* |
-
-[^1]: organizing team
