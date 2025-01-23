@@ -59,14 +59,14 @@ Workshop dinner
 | 09:50 - 10:10 | Matteo Petris      | Robust approaches for the Kidney Exchange Problem  |
 | 10:10 - 10:30 | Silvia Di Gregorio | Partial optimality in Cubic Correlation Clustering |
 
-Discussion break from 10:30 to 11:30
+Discussion break from 10:30 to 11:00
 
 | Time          | Speaker         | Title                                                                     |
 | ------------- | --------------- | ------------------------------------------------------------------------- |
-| 11:30 - 11:50 | Thibault Prunet | Surrogate move evaluation for a large class of order picking problems     |
-| 11:50 - 12:10 | Guillaume Dalle | Operations research in the age of differentiable and parallel programming |
+| 11:00 - 11:20 | Thibault Prunet | Surrogate move evaluation for a large class of order picking problems     |
+| 11:20 - 11:40 | Guillaume Dalle | Operations research in the age of differentiable and parallel programming |
 
-Lunch from 12:30 to 14:00
+Lunch from 11:40 to 14:00
 
 | Time          | Speaker       | Title                                                                                   |
 | ------------- | ------------- | --------------------------------------------------------------------------------------- |
