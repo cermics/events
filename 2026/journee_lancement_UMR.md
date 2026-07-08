@@ -1,5 +1,5 @@
 ---
-title: Journée de lancement de l'[UMR CERMICS](https://cermics-lab.enpc.fr/)
+title: Journée de lancement de l'UMR CERMICS
 ---
 
 ## Détails
