@@ -1,11 +1,11 @@
 ---
-title: Journée de lancement UMR au CERMICS
+title: Journée de lancement de l'[UMR CERMICS](https://cermics-lab.enpc.fr/)
 ---
 
 ## Détails
 
 - Date : vendredi 6 novembre 2026
-- Lieu : [CERMICS](https://cermics-lab.enpc.fr/), École des Ponts
+- Lieu : Amphi Caquot (RDC Bâtiment Coriolis), École des Ponts, RER A: Noisy-Champs
 
 ## Organisateurs
 
