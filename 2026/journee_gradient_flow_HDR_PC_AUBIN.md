@@ -24,7 +24,7 @@ Lunch break
 
 Short break 
 
-| 15h30 - 16h15 | Giuseppe Savaré (Università Bocconi)              | TBA |
+| 15h30 - 16h15 | Giuseppe Savaré (Università Bocconi)              | Variational convergence of EVI-gradient flows |
 | 16h15 - 17h00 | Anna Korba (ENSAE)              | TBA |
 
 
