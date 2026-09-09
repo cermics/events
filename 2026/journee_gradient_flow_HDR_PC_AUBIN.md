@@ -20,12 +20,12 @@ title: Research day on gradient flows and algorithms (01/10) and HDR Pierre-Cyri
 Lunch break
 
 | 13h30 - 14h15 | Edouard Pauwels (Toulouse School of Economics)              |  Conservative gradients, a generalized derivative for calculus and optimization       |
-| 14h15 - 15h00 | Ulisse Stefanelli (Universität Wien) | Global variational principles in metric spaces: continuous and discrete |
+| 14h15 - 15h00 | Anna Korba (ENSAE)  | A unifying view of variational Wasserstein flows |
 
 Short break 
 
 | 15h30 - 16h15 | Giuseppe Savaré (Università Bocconi)              | Variational convergence of EVI-gradient flows |
-| 16h15 - 17h00 | Anna Korba (ENSAE)              | TBA |
+| 16h15 - 17h00 |       Ulisse Stefanelli (Universität Wien)       | Global variational principles in metric spaces: continuous and discrete |
 
 
 ## Program of Friday 2nd : Generalizing convexity for gradient flows and algorithms (HDR Pierre-Cyril Aubin)
