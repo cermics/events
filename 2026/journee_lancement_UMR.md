@@ -16,17 +16,18 @@ Aurélien Alfonsi, Pierre-Cyril Aubin, Alexandre Ern
 | Horaire       | Intervenant(e) / Session                  |
 | ------------- | -------------------------------------------- |
 | 8h45 - 9h15   | Accueil café                                 |
-| 9h15 - 9h30   | Mots d'introduction de la DR et du CNRS      |
+| 9h15 - 9h35   | Présentation du CERMICS et des invités institutionnels (Gabriel Stoltz)      |
+| 9h15 - 9h55   | Mots d'introduction du CNRS, de l'ENPC, d'IP Paris et de l'INRIA      |
 
 ### Conférences plénières (9h30 - 11h55)
 
 | Horaire       | Intervenant(e)                                |
 | ------------- | ----------------------------------------------- |
-| 9h30 - 10h15  | Claudia d'Ambrosio (CNRS, LIX)                  |
-| 10h20 - 11h05 | Mathieu Rosenbaum (Université Paris Dauphine)   |
-| 11h10 - 11h55 | Greg Pavliotis (Imperial College)                |
+| 10h - 10h45  | Claudia d'Ambrosio (CNRS, LIX)                  |
+| 10h45 - 11h30 | Mathieu Rosenbaum (Université Paris Dauphine)   |
+| 11h30 - 12h15 | Greg Pavliotis (Imperial College)                |
 
-Déjeuner de 12h00 à 13h30 à la cantine de l'ENPC dans un espace dédié
+Déjeuner de 12h15 à 13h30 à la cantine de l'ENPC dans un espace dédié
 
 ### Exposés du CERMICS (13h30 - 16h50)
 
@@ -65,6 +66,6 @@ Pause café de 15h40 à 15h55
 
 | Horaire       |                                                                              |
 | ------------- | ---------------------------------------------------------------------------- |
-| 17h00 - 17h30 | Mots de clôture et perspectives par la direction du CERMICS et interventions |
+| 17h00 - 17h15 | Mots de clôture et perspectives par la direction du CERMICS et interventions |
 
 ---
