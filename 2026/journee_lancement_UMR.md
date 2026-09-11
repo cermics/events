@@ -19,53 +19,53 @@ Aurélien Alfonsi, Pierre-Cyril Aubin, Alexandre Ern
 | 9h15 - 9h35   | Présentation du CERMICS et des invités institutionnels (Gabriel Stoltz)      |
 | 9h15 - 9h55   | Mots d'introduction du CNRS, de l'ENPC, d'IP Paris et de l'INRIA      |
 
-### Conférences plénières (9h30 - 11h55)
+### Conférences plénières (10h - 12h25)
 
 | Horaire       | Intervenant(e)                                |
 | ------------- | ----------------------------------------------- |
 | 10h - 10h45  | Claudia d'Ambrosio (CNRS, LIX)                  |
-| 10h45 - 11h30 | Mathieu Rosenbaum (Université Paris Dauphine)   |
-| 11h30 - 12h15 | Greg Pavliotis (Imperial College)                |
+| 10h50 - 11h35 | Mathieu Rosenbaum (Université Paris Dauphine)   |
+| 11h40 - 12h25 | Greg Pavliotis (Imperial College)                |
 
-Déjeuner de 12h15 à 13h30 à la cantine de l'ENPC dans un espace dédié
+Déjeuner de 12h30 à 13h45 à la cantine de l'ENPC dans un espace dédié
 
-### Exposés du CERMICS (13h30 - 16h50)
+### Exposés du CERMICS (13h45 - 17h15)
 
 | Horaire       | Intervenant(e)                    |
 | ------------- | ------------------------------------ |
-| 13h30 - 14h00 | Laura Grazioli (recrutement CNRS)  |
+| 13h45 - 14h15 | Laura Grazioli (recrutement CNRS)  |
 
 #### Session Pôle Optim
 
 | Horaire       | Intervenant(e)                     |
 | ------------- | -------------------------------------- |
-| 14h00 - 14h15 | Axel Parmentier (Permanent)          |
-| 14h15 - 14h30 | Héloïse Gachet (Doctorante)          |
-| 14h30 - 14h45 | François Pacaud (Ancien doctorant)  |
+| 14h15 - 14h30 | Axel Parmentier (Permanent)          |
+| 14h30 - 14h45 | Héloïse Gachet (Doctorante)          |
+| 14h45 - 15h00 | François Pacaud (Ancien doctorant)  |
 
 #### Session Pôle Proba
 
 | Horaire       | Intervenant(e)                       |
 | ------------- | ----------------------------------------- |
-| 14h55 - 15h10 | Andrew McRae (Permanent)                |
-| 15h10 - 15h25 | Paul Invernizzi (Doctorant)             |
-| 15h25 - 15h40 | Clément Hardy (Ancien doctorant)        |
+| 15h10 - 15h25 | Andrew McRae (Permanent)                |
+| 15h25 - 15h40 | Paul Invernizzi (Doctorant)             |
+| 15h40 - 15h55 | Clément Hardy (Ancien doctorant)        |
 
-Pause café de 15h40 à 15h55
+Pause café de 15h55 à 16h10
 
 #### Session Pôle MAS
 
 | Horaire       | Intervenant(e)                            |
 | ------------- | ---------------------------------------------- |
-| 15h55 - 16h10 | Amaury Hayat (Permanent)                     |
-| 16h10 - 16h25 | Annamaria Massimini (Post-doctorante)        |
-| 16h25 - 16h40 | Jérôme Bonnelle (Ancien doctorant)           |
-| 16h40 - 16h55 | Geneviève Robin (Ancienne doctorante)        |
+| 16h10 - 16h25 | Amaury Hayat (Permanent)                     |
+| 16h25 - 16h40 | Annamaria Massimini (Post-doctorante)        |
+| 16h40 - 16h55 | Jérôme Bonnelle (Ancien doctorant)           |
+| 16h55 - 17h10 | Geneviève Robin (Ancienne doctorante)        |
 
 ### Clôture
 
 | Horaire       |                                                                              |
 | ------------- | ---------------------------------------------------------------------------- |
-| 17h00 - 17h15 | Mots de clôture et perspectives par la direction du CERMICS et interventions |
+| 17h15 - 17h30 | Mots de clôture et perspectives par la direction du CERMICS et interventions |
 
 ---
