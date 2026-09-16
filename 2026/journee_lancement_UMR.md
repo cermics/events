@@ -66,7 +66,6 @@ Pause café de 15h55 à 16h10
 
 | Horaire       |                                                                              |
 | ------------- | ---------------------------------------------------------------------------- |
-| 17h15 - 17h30 | Mots de conclusion par Yves Bréchet  |
-|               | (président du conseil scientifique de l'ENPC) |
+| 17h15 - 17h30 | Mots de conclusion par Yves Bréchet |
 
 ---
