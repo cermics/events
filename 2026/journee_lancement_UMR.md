@@ -5,7 +5,7 @@ title: Journée de lancement de l'UMR CERMICS
 ## Détails
 
 - Date : vendredi 6 novembre 2026
-- Lieu : Amphi Caquot (RDC Bâtiment Coriolis), École des Ponts, RER A: Noisy-Champs
+- Lieu : amphi à préciser, École des Ponts, RER A: Noisy-Champs
 
 ## Organisateurs
 
@@ -17,7 +17,7 @@ Aurélien Alfonsi, Pierre-Cyril Aubin, Alexandre Ern
 | ------------- | -------------------------------------------- |
 | 8h45 - 9h15   | Accueil café                                 |
 | 9h15 - 9h35   | Présentation du CERMICS et des invités institutionnels (Gabriel Stoltz)      |
-| 9h15 - 9h55   | Mots d'introduction du CNRS, de l'ENPC, d'IP Paris et de l'INRIA      |
+| 9h15 - 9h55   | Mots d'introduction de Christophe Besse (CNRS/INSMI), d'Anthony Briant (ENPC), de Jamal Atif (IP Paris) et d'INRIA (Pietro Congedo)      |
 
 ### Conférences plénières (10h - 12h25)
 
@@ -66,6 +66,6 @@ Pause café de 15h55 à 16h10
 
 | Horaire       |                                                                              |
 | ------------- | ---------------------------------------------------------------------------- |
-| 17h15 - 17h30 | Mots de clôture et perspectives par la direction du CERMICS et interventions |
+| 17h15 - 17h30 | Mots de conclusion par Yves Bréchet (président du conseil scientifique de l'ENPC) |
 
 ---
