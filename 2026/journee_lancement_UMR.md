@@ -13,11 +13,11 @@ Aurélien Alfonsi, Pierre-Cyril Aubin, Alexandre Ern
 
 ## Programme
 
-| Horaire       | Intervenant(e) / Session                  |
-| ------------- | -------------------------------------------- |
-| 8h45 - 9h15   | Accueil café                                 |
-| 9h15 - 9h35   | Présentation du CERMICS et des invités institutionnels (Gabriel Stoltz)      |
-| 9h15 - 9h55   | Mots d'introduction de Christophe Besse (CNRS/INSMI), d'Anthony Briant (ENPC), de Jamal Atif (IP Paris) et de Pietro Congedo (Inria)      |
+| Horaire      | Intervenant(e) / Session                  |
+| ------------ | ---------------------------------------------- |
+| 8h45 - 9h15  | Accueil café                                 |
+| 9h15 - 9h35  | Présentation du CERMICS et des invités institutionnels (Gabriel Stoltz)      |
+| 9h15 - 9h55  | Mots d'introduction de Christophe Besse (CNRS/INSMI), d'Anthony Briant (ENPC), de Jamal Atif (IP Paris) et de Pietro Congedo (Inria)      |
 
 ### Conférences plénières (10h - 12h25)
 
