@@ -5,7 +5,7 @@ title: Journée de lancement de l'UMR CERMICS
 ## Détails
 
 - Date : vendredi 6 novembre 2026
-- Lieu : amphi à préciser, École des Ponts, RER A: Noisy-Champs
+- Lieu : amphi Cauchy (bâtiment principal), École des Ponts, RER A : Noisy-Champs
 
 ## Organisateurs
 
