@@ -14,12 +14,12 @@ title: Research day on gradient flows and algorithms (01/10) and HDR Pierre-Cyri
 
 | Time       | Presenter                               | Tentative Title | 
 | ------------- | ----------------------------------------------- | ------------------------------------ |
-| 10h00 - 10h45  | François-Xavier Vialard (Université Gustave Eiffel)                 | NNCC spaces and related questions |
-| 10h45 - 11h30 | Filippo Santambrogio (Université Lyon 1)   | JKO discretization and Sinkhorn        |
+| 10h00 - 10h45  | Filippo Santambrogio (Université Lyon 1)   | JKO discretization and Sinkhorn        |
+| 10h45 - 11h30 | Edouard Pauwels (Toulouse School of Economics)              |  Conservative gradients, a generalized derivative for calculus and optimization       | 
 
 Lunch break
 
-| 13h30 - 14h15 | Edouard Pauwels (Toulouse School of Economics)              |  Conservative gradients, a generalized derivative for calculus and optimization       |
+| 13h30 - 14h15 | François-Xavier Vialard (Université Gustave Eiffel)                 | NNCC spaces and related questions |
 | 14h15 - 15h00 | Anna Korba (ENSAE)  | A unifying view of variational Wasserstein flows |
 
 Short break 
