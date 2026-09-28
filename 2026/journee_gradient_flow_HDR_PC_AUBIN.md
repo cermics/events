@@ -5,10 +5,11 @@ title: Research day on gradient flows and algorithms (01/10) and HDR Pierre-Cyri
 ## Details
 
 - Date : Thursday 1st and Friday 2nd October 2026
-- Lieu : Amphitheater Clugnet (Ground floor Bâtiment Coriolis https://maps.app.goo.gl/3zAmnrK45FMSkVCP8), École des Ponts, RER A: Noisy-Champs
+- Location : Amphitheater Clugnet (Ground floor Bâtiment Coriolis https://maps.app.goo.gl/3zAmnrK45FMSkVCP8), École des Ponts, RER A: Noisy-Champs
 
 ## Program of Thursday 1st : Research day on gradient flows 
 
+Video link: https://teams.microsoft.com/meet/345312022824532?p=BdqIrPKnzeSUsDnZaj
 
 ### Talks (10h00 - 17h30)
 
@@ -29,6 +30,8 @@ Short break
 
 
 ## Program of Friday 2nd : Generalizing convexity for gradient flows and algorithms (HDR Pierre-Cyril Aubin)
+
+Video link: https://teams.microsoft.com/meet/396945134126573?p=mRmhSL5JxmtlEi21wa
 
 | Time       | Content| 
 | ------------- | ----------------------------------------------- | 
