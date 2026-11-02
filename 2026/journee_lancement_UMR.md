@@ -59,8 +59,8 @@ Pause café de 15h55 à 16h10
 | ------------- | ---------------------------------------------- |
 | 16h10 - 16h25 | Amaury Hayat (Permanent)                     |
 | 16h25 - 16h40 | Annamaria Massimini (Post-doctorante)        |
-| 16h40 - 16h55 | Jérôme Bonnelle (Ancien doctorant)           |
-| 16h55 - 17h10 | Geneviève Robin (Ancienne doctorante)        |
+| 16h40 - 16h55 | Jérôme Bonelle (Ancien doctorant)           |
+| 16h55 - 17h10 | Geneviève Robin (Ancienne post-doctorante)        |
 
 ### Clôture
 
