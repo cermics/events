@@ -24,7 +24,7 @@ Aurélien Alfonsi, Pierre-Cyril Aubin, Alexandre Ern
 | Horaire       | Intervenant(e)                    | Titre |
 | ------------- | --------------------------------- | ----- |
 | 10h - 10h45   | Claudia d'Ambrosio (CNRS, LIX)    | [Mixed-integer nonlinear programming](#dambrosio) |
-| 10h50 - 11h35 | Thomas Deschatre (EDF)               | [Rainfall is rough](#deschatre) |
+| 10h50 - 11h35 | Thomas Deschatre (EDF)                  | [Rainfall is rough](#deschatre) |
 | 11h40 - 12h25 | Greg Pavliotis (Imperial College) | [Optimizing Langevin dynamics: from convergence to equilibrium to transport coefficients](#pavliotis) |
 
 Déjeuner de 12h30 à 13h45 à la cantine de l'ENPC dans un espace dédié
@@ -33,13 +33,13 @@ Déjeuner de 12h30 à 13h45 à la cantine de l'ENPC dans un espace dédié
 
 | Horaire       | Intervenant(e)                    | Titre |
 | ------------- | --------------------------------- | ----- |
-| 13h45 - 14h15 | Laura Grazioli (recrutement CNRS) | Differential geometry for the calculation of electronic excited states |
+| 13h45 - 14h15 | Laura Grazioli (recrutement CNRS) | [Differential geometry for the calculation of electronic excited states](#grazioli) |
 
 #### Session Pôle Optim
 
 | Horaire       | Intervenant(e)                     | Titre |
 | ------------- | ---------------------------------- | ----- |
-| 14h15 - 14h30 | Axel Parmentier (Permanent)        | À venir |
+| 14h15 - 14h30 | Axel Parmentier (Permanent)        | [Decision-focused learning: from industrial applications to rich mathematics](#parmentier) |
 | 14h30 - 14h45 | Héloïse Gachet (Doctorante)        | [Balanced Assignments of Periodic Tasks](#gachet) |
 | 14h45 - 15h00 | François Pacaud (Ancien doctorant) | [Logical constraints in nonlinear programming: the case for complementarity constraints](#pacaud) |
 
@@ -60,7 +60,7 @@ Pause café de 15h55 à 16h10
 | 16h10 - 16h25 | Amaury Hayat (Permanent)                   | [The place of AI in the practice of mathematics](#hayat) |
 | 16h25 - 16h40 | Annamaria Massimini (Post-doctorante)      | [Cross-diffusion in multi-component mixtures: From modeling to numerical approximation](#massimini) |
 | 16h40 - 16h55 | Jérôme Bonelle (Ancien doctorant)          | [CDO schemes: an EDF–CERMICS collaboration, from mathematics to industrial applications](#bonelle) |
-| 16h55 - 17h10 | Geneviève Robin (Ancienne post-doctorante) | À venir |
+| 16h55 - 17h10 | Geneviève Robin (Ancienne post-doctorante) | [Generalizable Machine Learning for Digital Pathology](#robin) |
 
 ### Clôture
 
@@ -82,7 +82,7 @@ Decision-making problems are ubiquitous — in energy systems, logistics, engine
 
 **Rainfall is rough**
 
-We propose a new approach to model rainfall by combining heterogeneous data sources at different time scales. Continuous arrivals of rain cells are incorporated into a Hawkes process formalism that encompasses the classical Bartlett-Lewis and Neyman-Scott models, thereby providing a more flexible representation of clustering. Analysis of high frequency rainfall data (at the minute scale over several years) indicates that critical Hawkes processes with heavy-tailed power-law kernels yield a superior fit relative to classical models and alternative kernel specifications. Scaling arguments inspired by Jaisson and Rosenbaum (2016) imply that aggregated rainfall at coarse time scales converges to a rough fractional process with Hurst exponent close to zero. This prediction is supported by empirical evidence from low-frequency data (annual observations spanning centuries to millennia), where the Hurst exponent is estimated to lie between 0.01 and 0.1 based on either direct observations from weather stations or proxy reconstructions such as tree-ring records. These results establish a connection between rainfall dynamics and models developed in quantitative finance for market microstructure and volatility. They also provide a new perspective on classical scaling phenomena originally studied by Hurst and Mandelbrot.
+Résumé disponible sur arXiv : [arXiv:2607.27099](https://arxiv.org/abs/2607.27099)
 
 [↑ Retour au programme](#programme)
 
@@ -91,6 +91,28 @@ We propose a new approach to model rainfall by combining heterogeneous data sour
 **Optimizing Langevin dynamics: from convergence to equilibrium to transport coefficients**
 
 In this talk I will give an overview of some of the work that Tony Lelièvre, Gabriel Stoltz and I have done over the last 15 years, together with other colleagues and former and current PhD students, in particular Urbain Vaes. I will first show how non-reversible perturbations accelerate convergence to equilibrium and reduce the asymptotic variance of ergodic averages. I will then discuss how the diffusion coefficient of reversible dynamics can be optimized with respect to the spectral gap, subject to an appropriate constraint. Finally, I will discuss briefly the calculation of transport coefficients, focusing on a kinetic system of weakly interacting diffusions in a periodic potential. We will study its joint mean-field/diffusive limit and compute the diffusion coefficient of the limiting Brownian motion. The effect of phase transitions of the mean-field dynamics on the diffusion coefficient will be elucidated.
+
+[↑ Retour au programme](#programme)
+
+### Laura Grazioli {#grazioli}
+
+**Differential geometry for the calculation of electronic excited states**
+
+One of the most important questions in quantum chemistry is about how to calculate excitation energies of molecules, that is, the energies necessary to promote the system from its ground state to an energetically higher-lying state, as these are necessary to interpret and simulate molecular spectra.
+
+In the many-body Schrödinger theory, electronic excitation energies admit two mathematically equivalent characterisations. On the one hand, excited states arise as higher-energy solutions of the many-body Schrödinger equation and therefore as critical points of the corresponding energy functional; under suitable regularity assumptions, they are saddle points whose number of negative eigenvalues of the Hessian (Morse index) equals the excitation levels. On the other hand, excitation energies appear as the normal modes of the linearised Hamiltonian dynamics around the ground state through linear response theory.
+
+In approximate theories, the two routes to excitation energies do not coincide, making their comparison interesting both from the mathematical and chemical point of view. In this work, we make a step forward by providing a unified geometrical framework, through the investigation of the inherent manifold structures. For the critical point approach, we develop saddle-point search algorithms on the manifold of admissible wave functions. These algorithms target critical points of prescribed Morse index while respecting the intrinsic geometry of the underlying variational manifold, an essential ingredient for the stable computation of inherently unstable saddle points. In parallel, we provide a systematic geometrical derivation of linear response theory for variational wave-function models by exploiting the Kähler structure of the corresponding manifolds. Our derivations reduce to well-known linear response equations in quantum chemistry, which may necessitate ad hoc technicalities for different levels of theory.
+
+We apply the general framework to some of the variational quantum chemistry methods to be able to compare the results for excitation energies and gain insight into the differences between the investigated approaches.
+
+[↑ Retour au programme](#programme)
+
+### Axel Parmentier {#parmentier}
+
+**Decision-focused learning: from industrial applications to rich mathematics**
+
+Many industrial decision problems combine combinatorial choices with uncertain, data-rich environments: routing vehicles, scheduling aircraft, designing supply chains, operating power grids. Combinatorial optimization augmented machine learning (COAML) tackles them with policies that chain a statistical model, typically a neural network, with a combinatorial optimization algorithm. The network predicts the parameters of an optimization problem, and the algorithm turns them into a feasible decision. Decision-focused learning (DFL) trains this architecture end to end on the quality of the decisions it produces, rather than on the accuracy of the predicted parameters. This requires learning through an algorithm whose output is a piecewise constant function of its inputs. This short introduction has two goals. First, we give a panorama of applications, from dynamic problems to contextual stochastic optimization. Second, we show that the field leads to rich mathematics at the crossroads of several domains.
 
 [↑ Retour au programme](#programme)
 
@@ -137,5 +159,13 @@ I will conclude by discussing some open questions and possible directions for fu
 **CDO schemes: an EDF–CERMICS collaboration, from mathematics to industrial applications**
 
 Between 2011 and 2020, three CIFRE PhD projects, supervised by Alexandre Ern and supported by EDF, led to the design and analysis of CDO (Compatible Discrete Operators) schemes and their integration into code_saturne, EDF's open-source CFD software. This collaboration between CERMICS and EDF gave rise to a new generation of spatial discretization methods designed to preserve the fundamental structures of the governing equations at the discrete level. These developments are now used in several areas of industrial relevance, including subsurface flows, particularly in the context of the Cigéo deep geological repository for radioactive waste, solidification processes, and turbulent flows in the primary loops of nuclear power plants.
+
+[↑ Retour au programme](#programme)
+
+### Geneviève Robin {#robin}
+
+**Generalizable Machine Learning for Digital Pathology**
+
+In computational pathology, a common task is to analyze digitally scanned tissue samples to predict endpoints that enhance disease understanding and improve patient care. This often involves predicting clinical outcomes such as overall survival (OS) and progression-free survival (PFS), as well as biomarkers like microsatellite instability (MSI/MSS) status. A key requirement for deploying these models in real-world settings is their robustness to variations in preparation protocols (e.g. different stainings) and digitization (e.g., different scanners), ensuring reliability across different clinical centers. State-of-the-art computational pathology pipelines often rely on two components: a large, pre-trained representation model of image patches, also called foundation model, and a predictive model which associates the embedded patches to predicted outcome at the image level. In this work, we present how the robustness and generalizability of both components can be enhanced using model distillation and score calibration.
 
 [↑ Retour au programme](#programme)
